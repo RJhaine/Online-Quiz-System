@@ -176,3 +176,4 @@ else
     header("Location: http://localhost/quizapp/admin.php");    
     exit(); 
 }
+// end
