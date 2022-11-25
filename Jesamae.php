@@ -18,7 +18,7 @@ if(isset($_GET['message'])) {
     <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Great+Vibes&display=swap" rel="stylesheet">
 
     <script src="assets/src/js/script.js"></script>
-    <title>Quiz Time</title>
+    <title>Online Quiz System</title>
     <style>
     body {
         background-color: #eee3e7;
